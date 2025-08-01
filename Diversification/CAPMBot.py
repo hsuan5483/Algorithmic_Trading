@@ -15,8 +15,8 @@ from itertools import permutations
 SUBMISSION = {"student_number": "1424430", "name": "Pei-Hsuan (Amelia) Hsu"}
 
 FM_ACCOUNT = "mickle-coequal"
-FM_EMAIL = "hsuan.hsuuu@gmail.com"
-FM_PASSWORD = "1424430"
+FM_EMAIL = "YOUR EMAIL"
+FM_PASSWORD = "YOUR PASSWORD"
 MARKETPLACE_ID = 1444 # replace this with the marketplace id
 
 
